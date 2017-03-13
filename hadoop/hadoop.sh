@@ -1,6 +1,8 @@
 #
 # Hadoop shell for beginners
 #
+# - Logu Venkatachalam (logunv@gmail.com)
+# Mar 12, 2017
 
 error()
 {
